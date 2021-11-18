@@ -23,6 +23,7 @@
 
 
   ## Tests
+  ![demo](https://github.com/benkaan001/client-login/blob/main/assets/demo.gif)
 
 
   Check out the deployed application
