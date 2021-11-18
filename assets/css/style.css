@@ -5,10 +5,10 @@ body{
     
   }
   
-  /* add nav bar */
-  /* .navbar{
-    background: rgba(0, 0, 0, 0.3);
-  } */
+   .navbar{
+    /* background: rgba(0, 0, 0, 0.3); */
+    background-color: #e6f4fd;
+  }
   
   .video-background {
     position: relative;
@@ -40,6 +40,11 @@ body{
     border-radius: 0;
     font-size: 1.1rem;
   
+  }
+
+  footer{
+    background-color: #e6f4fd
+
   }
   
 
